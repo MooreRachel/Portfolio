@@ -11,3 +11,5 @@
  Initially, my code was functional but I had a lot more lines of code than necessary so I edited my code to be more modular. In the final version it is easy to add or delete cities by just changing one line of code. 
  
 Return to [portfolio](../../../../) 
+
+My LinkedIn profile: https://www.linkedin.com/in/rachelmprofile
