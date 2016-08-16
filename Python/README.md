@@ -5,7 +5,7 @@ CopyRecentModFiles.py is a script that checks for files created or edited within
 
 CreateFiles.py is a script that I created to test CopyRecentModFiles. It creates a specified amount of files with filler content.
 
-[MoveFiles.py] moves files from one folder into another folder.
+MoveFiles.py moves files from one folder into another folder.
 
 Return to [portfolio](../../../)
 
