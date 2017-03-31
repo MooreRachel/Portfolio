@@ -10,8 +10,8 @@
  
  Initially, my code was functional but I had a lot more lines of code than necessary so I edited my code to be more modular. In the final version it is easy to add or delete cities by just changing one line of code. 
  
-[Datetime Drill code] (Portfolio/Python/Datetime-Drill/dateTimeDrill2.py)
+[Datetime Drill code](Portfolio/Python/Datetime-Drill/dateTimeDrill2.py)
 
 Return to [portfolio](../../../../) 
 
-[My LinkedIn profile: https://www.linkedin.com/in/rachelmprofile] (https://www.linkedin.com/in/rachelmprofile)
+[My LinkedIn profile: https://www.linkedin.com/in/rachelmprofile](https://www.linkedin.com/in/rachelmprofile)
