@@ -7,7 +7,7 @@ CreateFiles.py is a script that I created to test CopyRecentModFiles. It creates
 
 MoveFiles.py moves files from one folder into another folder.
 
-[code to Copy Recent Files ](https://gist.github.com/MooreRachel/783652625b62157a2c8409a187a5bb9f.js")
+[code to Copy Recent Files ](<script src="https://gist.github.com/MooreRachel/783652625b62157a2c8409a187a5bb9f.js"></script>
 
 Return to [portfolio](../../../)
 
