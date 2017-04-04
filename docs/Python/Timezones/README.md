@@ -12,6 +12,6 @@
  
 [Datetime Drill code](timezoneGist.md)
 
-Return to [portfolio](../../../../) 
+Return to [portfolio](MooreRachel.github.io/Portfolio) 
 
-[My LinkedIn profile: https://www.linkedin.com/in/rachelmprofile](https://www.linkedin.com/in/rachelmprofile)
+[My LinkedIn profile: ](https://www.linkedin.com/in/rachelmprofile)
