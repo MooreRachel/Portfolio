@@ -10,7 +10,7 @@
  
  Initially, my code was functional but I had a lot more lines of code than necessary so I edited my code to be more modular. In the final version it is easy to add or delete cities by just changing one line of code. 
  
-[Datetime Drill code](https://github.com/MooreRachel/Portfolio/blob/bbbc6757c653505ad7714923cac38a21eb7093c4/Python/Datetime-Drill/dateTimeDrill2.py)
+[Datetime Drill code](timezoneGist.md)
 
 Return to [portfolio](../../../../) 
 
