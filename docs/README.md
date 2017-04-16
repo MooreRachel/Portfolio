@@ -2,6 +2,6 @@
 ***
 
 
-* [Python Examples](./Python)
+* [Python](./Python)
 
 * [C #](./Csharp)
